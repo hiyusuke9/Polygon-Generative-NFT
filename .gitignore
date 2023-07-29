@@ -9,3 +9,8 @@ typechain-types
 # misc
 .DS_Store
 __pycache__
+
+#Hardhat files
+cache
+artifacts
+hardhat.config.js
