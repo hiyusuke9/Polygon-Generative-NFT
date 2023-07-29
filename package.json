@@ -14,5 +14,8 @@
     "library": "yarn workspace library",
     "client:dev": "yarn workspace client dev",
     "test": "yarn workspace contract test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2"
   }
 }
